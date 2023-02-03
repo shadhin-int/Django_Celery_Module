@@ -108,6 +108,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+venv/lib/python3.8/site-packages/
 ENV/
 env.bak/
 venv.bak/
